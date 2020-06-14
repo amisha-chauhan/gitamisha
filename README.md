@@ -1,2 +1,2 @@
-# gitamisha
-My name is Amisha. I am frst year btech cse student at Amity University Noida. I am interested in learning git and github.
+# github series
+the second task of codewayy github series.this is my first repository.
